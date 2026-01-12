@@ -15,7 +15,7 @@ const MODEL_ID = "@cf/meta/llama-3.1-8b-instruct-fp8";
 
 // Default system prompt
 const SYSTEM_PROMPT =
-	"You are a helpful, friendly assistant. Provide concise and accurate responses.Your creator are Kua";
+	"Tu es un assistant serviable et amical. Fournis des réponses concises et précises. Ton créateur est Magic Labs.";
 
 export default {
 	/**
